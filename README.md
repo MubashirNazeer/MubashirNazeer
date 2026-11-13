@@ -1,61 +1,37 @@
-# Hi, I'm Mubashir Nazeer 👋
+<h1 align="center">Hi 👋, I'm Mubashir Nazeer</h1>
+<h3 align="center">Backend & DevOps Engineer</h3>
 
-**Backend & DevOps Engineer** building real-time video, AI analytics, web scraping and data platforms with **Python & Django**.
-
-I build the backend behind systems that watch live camera and media streams and collect data from the web. They turn that data into clips, AI detections, dashboards and reports. I also run the pipelines that ship them to production.
-
-- 🎥 Live stream ingestion, chunking, playback and clipping (GStreamer, HLS, FFmpeg)
-- 🕷️ Web scraping and crawling pipelines that collect, parse and clean data from many sources on a schedule
-- 🧠 Serving AI model output: object detection, OCR, face, speaker and sentiment analysis
-- ⚙️ Distributed task pipelines with Celery, Redis and Kafka
-- 📊 Multi-tenant analytics APIs, reporting and CSV/PDF exports
-- 🚢 CI/CD with GitHub Actions, Docker images pushed to Harbor and AWS ECR, and GitOps deploys to Kubernetes
-- 📡 Production monitoring with Prometheus, plus separate dev, staging and prod environments
-
----
-
-## 🛠️ Tech Stack
-
-**Backend:** Python · Django · Django REST Framework · FastAPI · Pydantic · Celery · Celery Beat
-**Data & Messaging:** PostgreSQL · PgBouncer · Redis · Kafka
-**Media & AI:** GStreamer · OpenCV · FFmpeg / MoviePy · HLS
-**Web Scraping:** Requests · httpx · lxml · Celery Beat scheduling
-**DevOps:** Docker · Docker Compose · Buildx · Kubernetes · GitOps · GitHub Actions (self-hosted runners) · Harbor · AWS ECR · AWS S3 · Gunicorn · Prometheus · PyArmor
-**Frontend:** React · TypeScript · Vite · Tailwind CSS · TanStack Query · Zustand
-**Quality:** pytest · Ruff · mypy
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,kafka,docker,kubernetes,githubactions,aws,prometheus,linux,react,ts,vite,tailwind,git&perline=17" alt="Tech stack icons" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Python+%26+Django+Backend+Engineer;DevOps+%7C+Docker+%7C+Kubernetes;CI%2FCD+%26+GitOps+Pipelines;Real-time+Video+Streaming+Backends;Web+Scraping+%26+Data+Pipelines" alt="Typing SVG" />
 </p>
 
----
-
-## 🚀 What I've Built
-
-| Project | What it does | Stack |
-|---|---|---|
-| **BetaNexus** | Multi-factory production monitoring. Detects and counts products from live line cameras, with a detection wall, daily reports and exports. | Django, DRF, Celery, PostgreSQL, React + TS |
-| **ForVision Central** | Central video analytics platform with alerts, analytics, clipping, records, teams, SOP checks and an LLM-powered "Ask Vision" assistant. | Django, Celery, Redis, Prometheus, Docker |
-| **Clipping Servers** | Microservices that ingest live TV/radio/CCTV streams, chunk them, manage live playback and cut clips on demand. | Django, GStreamer, Kafka, Celery, Redis |
-| **AI Annotation Tool** | Backend for annotating data and testing/training models across OD, OCR, face, logo, speaker, emotion, sentiment and speech-to-text modules. | Django, DRF, Celery |
-| **[Digital Contract Portal](https://github.com/MubashirNazeer/Digital-Contract-Portal)** | Contract workflow with role-based approvals (corporate → finance → legal → client), track changes, OTP e-sign and renew/amend/terminate. | Django, Docker |
-| **CI/CD & Deployment** | Pipelines that build Docker images on every push, skip builds for reverts, push them to Harbor and ECR, and deploy them to Kubernetes through a GitOps repo, with dev, staging and prod environments. | GitHub Actions, Docker Buildx, Kubernetes |
-| **Recorder & Sensor Ingest** | Stream recording service plus a FastAPI sensor-ingest API for belt counts. | Django, FastAPI |
-
----
-
-## 📈 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MubashirNazeer&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirNazeer&layout=compact&hide_border=true" alt="Top languages" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/mubashirnazeer50" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-mubashirnazeer50-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
+- 🔭 I build **scalable backends and APIs** for real-time video and analytics platforms
+- 🚢 I run **CI/CD, Docker and Kubernetes** deployments with GitOps and monitoring
+- 🕷️ I build **web scraping and data pipelines**
+- 🤖 I have some hands-on experience **integrating AI models and LLMs** into backends
+- 💬 Ask me about **Python, Django, DevOps, Web Scraping**
+- 📫 How to reach me: **mubashirnazeeer50@gmail.com**
 
-## 🤝 Connect
+<h3 align="left">🛠️ Languages and Tools:</h3>
 
-📫 **Email:** mubashirnazeeer50@gmail.com
-💼 **LinkedIn:** _add your link_
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,kafka,docker,kubernetes,githubactions,aws,prometheus,linux,bash,git,opencv,react,ts,vite,tailwind&perline=10" alt="Languages and tools" />
+</p>
 
-⭐ Open to backend, DevOps, web scraping, video-streaming and AI-platform work.
+<p align="left">
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/GitOps-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GitOps" />
+  <img src="https://img.shields.io/badge/GStreamer-FF3131?style=for-the-badge" alt="GStreamer" />
+  <img src="https://img.shields.io/badge/Web_Scraping-2E86C1?style=for-the-badge" alt="Web Scraping" />
+  <img src="https://img.shields.io/badge/AI_%2F_LLM_Integration-412991?style=for-the-badge" alt="AI / LLM Integration" />
+</p>
+
+<h3 align="left">📊 My Stats:</h3>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=MubashirNazeer&hide_border=true" alt="GitHub Streak" />
+</p>
