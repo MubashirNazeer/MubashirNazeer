@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mubashir Nazeer</h1>
-<h3 align="center">Backend & DevOps Engineer</h3>
+<h3 align="center">Backend-Focused Full Stack Developer | DevOps Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Python+%26+Django+Backend+Engineer;DevOps+%7C+Docker+%7C+Kubernetes;CI%2FCD+%26+GitOps+Pipelines;Real-time+Video+Streaming+Backends;Web+Scraping+%26+Data+Pipelines" alt="Typing SVG" />
